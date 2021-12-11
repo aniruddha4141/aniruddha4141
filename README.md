@@ -1,6 +1,6 @@
 Take a permission before copying feel free to fork this -->
 
-<h1 align="center">Hi  &nbsp;<a href="https://avipatilweb.me/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48px"></a>, I'm Aniruddha Jadhav 🤘</h1>
+<h1 align="center">Hi  &nbsp;<a href="#"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48px"></a>, I'm Aniruddha Jadhav 🤘</h1>
 
 <p align="center">
 <a href="https://codepen.io/aniruddha4141" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="aniruddha__414" height="30" width="40" /></a>
@@ -14,7 +14,7 @@ Take a permission before copying feel free to fork this -->
 
 <p align="center"> <a href="https://github.com/aniruddha4141/"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=aniruddha4141&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="avipatilpro" /></a> </p><br>
 
-<p align="center"><a href="https://avipatilweb.me/"><img src="https://sdk.bitmoji.com/render/panel/7ff431c5-0042-4ded-81e5-a5514a9e677a-73722fee-603d-4ad6-a574-ee66da7461b3-v1.png?transparent=1&palette=1" alt="Hello" width="170" height="170"/></a></p><br>
+<p align="center"><a href="#"><img src="https://sdk.bitmoji.com/render/panel/7ff431c5-0042-4ded-81e5-a5514a9e677a-73722fee-603d-4ad6-a574-ee66da7461b3-v1.png?transparent=1&palette=1" alt="Hello" width="170" height="170"/></a></p><br>
 
 
 
@@ -30,7 +30,7 @@ Take a permission before copying feel free to fork this -->
 
 - 💬 Ask me about **all things**
 
-- 📫 How to reach me **aniruddhajadhav414@gmail.com or aj.tech414@gmail.com**
+- 📫 How to reach me **contact@anny.ga or mail@anny.ga**
 
 <br><br>
 
