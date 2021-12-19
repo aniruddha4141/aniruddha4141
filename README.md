@@ -12,9 +12,9 @@ Take a permission before copying feel free to fork this -->
 <h4 align="center">Closed-Source Developement and Always Develop in Python and JS 🐍 <br> I Like to work privately</h4>
 
 
-<p align="center"> <a href="https://github.com/aniruddha4141/"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=aniruddha4141&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="avipatilpro" /></a> </p><br>
+<p align="center"> <a href="https://github.com/aniruddha4141/"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=aniruddha4141&label=PROFILE%20VISITORS&color=blueviolet&style=flat-square" alt="Anny" /></a> </p><br>
 
-<p align="center"><a href="#"><img src="https://sdk.bitmoji.com/render/panel/7ff431c5-0042-4ded-81e5-a5514a9e677a-73722fee-603d-4ad6-a574-ee66da7461b3-v1.png?transparent=1&palette=1" alt="Hello" width="170" height="170"/></a></p><br>
+<p align="center"><a href="#"><img src="https://raw.githubusercontent.com/aniruddha4141/aniruddha4141/main/assets/line.gif" alt="Hello" width="170" height="170"/></a></p><br>
 
 
 
