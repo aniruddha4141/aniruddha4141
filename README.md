@@ -16,7 +16,7 @@ Take a permission before copying feel free to fork this -->
 
 <p align="center"><a href="#"><img src="https://raw.githubusercontent.com/aniruddha4141/aniruddha4141/main/assets/line.gif" alt="Hello" width="170" height="170"/></a></p><br>
 
-<iframe align="center" src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6623927" style='border:none;'></iframe>
+<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/aniruddha414.png" alt="Your Image Badge" />
 
 
 - 🔭 I’m currently Not working 
